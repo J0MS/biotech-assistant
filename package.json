@@ -5,7 +5,7 @@
   "main": "server.js",
   "author": "@J0MS",
   "dependencies": {
-    "express": "~4.6.1",
+    "express": "~4.17.3",
     "mongoose": "~3.8.13",
     "morgan": "~1.1.1",
     "body-parser": "~1.4.3",
